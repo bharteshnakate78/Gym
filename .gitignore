@@ -1,0 +1,23 @@
+# Spring Boot
+gym-back/target/
+
+# React
+gym-frontend/node_modules/
+gym-frontend/dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
